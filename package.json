@@ -1,0 +1,29 @@
+{
+  "scripts": {
+    "test": "node --test",
+    "format": "prettier --write .",
+    "format-check": "prettier --check ."
+  },
+  "name": "taller-git-ci-3223875-fernandozapa",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fernandozapa26/ci-taller-re.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fernandozapa26/ci-taller-re/issues"
+  },
+  "homepage": "https://github.com/Fernandozapa26/ci-taller-re#readme",
+  "devDependencies": {
+    "prettier": "^3.7.4"
+  }
+}
